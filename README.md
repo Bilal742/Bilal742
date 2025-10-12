@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Bilal
+# Hi! My Name Is Muhammad Bilal
+
+Frontend Developer | Aspiring MERN Stack Developer
 
 I began my **Web Development journey in 2024**.  
 At that time, I didn’t know anything about coding — but I had a strong passion for it.  
