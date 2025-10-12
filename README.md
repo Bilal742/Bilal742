@@ -41,4 +41,4 @@ create high-quality projects, and keep improving my skills every day.
 ---
 
 **Bilal**  
-_Passionate Web Developer in Progress 🚀_
+_Passionate Web & App Developer in Progress 🚀_
