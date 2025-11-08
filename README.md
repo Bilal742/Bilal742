@@ -17,7 +17,7 @@ There, I revised HTML, CSS, and JavaScript —
 and then learned **Tailwind CSS** and **React**, which opened up a new world for me.
 
 I also explored **Backend Development** with **Node.js, Express.js, and MongoDB**,  
-and now I’m learning **React Native** to expand into mobile app development.
+and now I’m learning **TypeScript** and **Next.js** to expand into modern web development.
 
 ---
 
@@ -39,6 +39,10 @@ and now I’m learning **React Native** to expand into mobile app development.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="60" height="60"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="60" height="60"/>
 </p>
 
 ---
@@ -49,7 +53,7 @@ and now I’m learning **React Native** to expand into mobile app development.
 - 💡 Created multiple frontend projects  
 - ⚛️ Learned **React** and **Tailwind CSS**  
 - 🛠️ Gained knowledge of **Backend (Node.js, Express.js, MongoDB)**  
-- 📱 Currently learning **React Native**  
+- 📱 Currently learning **TypeScript** and **Next.js**  
 
 ---
 
