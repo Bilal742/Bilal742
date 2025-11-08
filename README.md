@@ -36,7 +36,9 @@ and now I’m learning **TypeScript** and **Next.js** to expand into modern web 
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
   &nbsp;&nbsp;
+<div style="background:#fff; padding:10px; border-radius:10px; display:inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="60" height="60"/>
+</div>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
   <!-- &nbsp;&nbsp; -->
