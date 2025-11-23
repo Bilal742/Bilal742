@@ -91,3 +91,9 @@ create high-quality, scalable projects, and continuously level up my skills.
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
+
+<h3 align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</h3>
