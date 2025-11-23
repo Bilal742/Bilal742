@@ -4,7 +4,7 @@
 
 </h3>  
 
-# 👋 Hi, I'm Muhammad Bilal
+<h1 align="center">Assalam-o-Alaikum 👋, I'm Muhammad Bilal</h1>
 
 **Frontend Developer | Aspiring Full-Stack (MERN) Developer** 💻🚀
 
