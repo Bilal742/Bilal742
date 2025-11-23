@@ -6,7 +6,7 @@
 
 <h1 align="center">Assalam-o-Alaikum 👋, I'm Muhammad Bilal</h1>
 
-**Frontend Developer | Aspiring Full-Stack (MERN) Developer** 💻🚀
+<h3 align="center">**Frontend Developer | Aspiring Full-Stack (MERN) Developer** 💻🚀</h3
 
 I started my **web development journey in 2024** with zero knowledge but a huge passion for coding.  
 Through consistent practice and learning, I grew from basic **HTML & CSS** to **JavaScript**, then **React & Tailwind CSS**, and now exploring **Node.js, Express.js, MongoDB, TypeScript, and Next.js**.
