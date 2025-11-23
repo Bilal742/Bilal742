@@ -87,9 +87,3 @@ create high-quality, scalable projects, and continuously level up my skills.
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-
----
-
-<p align="center">
-Made with ❤️ by **Muhammad Bilal**
-</p>
