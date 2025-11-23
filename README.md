@@ -1,5 +1,7 @@
 <h3> 
+  
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+  
 </h3>  
 <h1>Assalam-o-Alaikum 👋, I'm Muhammad Bilal</h1>
 
