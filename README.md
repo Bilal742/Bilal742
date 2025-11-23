@@ -1,78 +1,63 @@
 # 👋 Hi, I'm Muhammad Bilal
 
-<div align="center">
-  <h1 style="background: linear-gradient(90deg,#00c6ff,#0072ff); -webkit-background-clip: text; color: transparent; text-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
-    Frontend Developer | MERN Stack Learner 💻🚀
-  </h1>
-  <p style="font-size:16px; color:#ccc;">Building modern, responsive web & app experiences with React, Tailwind, Node.js, and more.</p>
-</div>
+**Frontend Developer | Aspiring Full-Stack (MERN) Developer** 💻🚀
+
+I started my **web development journey in 2024** with zero knowledge but a huge passion for coding.  
+Through consistent practice and learning, I grew from basic **HTML & CSS** to **JavaScript**, then **React & Tailwind CSS**, and now exploring **Node.js, Express.js, MongoDB, TypeScript, and Next.js**.
+
+I believe in **building real projects** and continuously improving my skills through challenges and experimentation.
 
 ---
 
-## 🧩 About Me
-
-Started my **Web Development journey in 2024** from zero. Step by step, I mastered:
-
-- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React  
-- **Backend:** Node.js, Express.js, MongoDB  
-- **Currently Learning:** TypeScript, Next.js  
-- **Passion:** Clean UI, responsive apps, modern UX  
-
-> "Strive to learn, build, and improve every single day 🚀"
-
----
-
-## 🛠️ Tech Stack & Skills
+## 🧰 Skills & Technologies
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" title="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" title="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+  &nbsp;
+  <span style="background:#fff; padding:10px; border-radius:12px; display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="60" height="60"/>
+  </span>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
 </p>
 
 ---
 
-## 🌟 My Projects
+## 🚀 Learning Journey
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+- 🧱 Learned **HTML, CSS, JavaScript** fundamentals  
+- 💡 Built multiple **frontend projects**  
+- ⚛️ Mastered **React & Tailwind CSS**  
+- 🛠️ Explored **Backend Development** (Node.js, Express.js, MongoDB)  
+- 📱 Currently learning **TypeScript & Next.js** for modern full-stack development  
 
-<div style="background:#111; padding:20px; border-radius:15px; box-shadow:0 10px 25px rgba(0,0,0,0.5); width:280px; transition:0.3s; hover:transform:scale(1.05);">
-#### CryptoDash
-- Real-Time Cryptocurrency Dashboard
-- Live prices, sparkline charts
-- Search & pagination
-[🔗 GitHub](https://github.com/Bilal742/crypto-dash)
-</div>
+---
 
-<div style="background:#111; padding:20px; border-radius:15px; box-shadow:0 10px 25px rgba(0,0,0,0.5); width:280px; transition:0.3s; hover:transform:scale(1.05);">
-#### To-Do App
-- Fully Functional To-Do List
-- Add/Edit/Delete/Mark Complete
-[🔗 GitHub](https://github.com/Bilal742/todo-app)
-</div>
+## 🎯 Career Goal
 
-<div style="background:#111; padding:20px; border-radius:15px; box-shadow:0 10px 25px rgba(0,0,0,0.5); width:280px; transition:0.3s; hover:transform:scale(1.05);">
-#### Quiz App
-- Interactive Multiple Choice Quiz
-- Score tracking & Restart
-[🔗 GitHub](https://github.com/Bilal742/quiz-app)
-</div>
+To become a **Full-Stack Web & App Developer**,  
+create high-quality, scalable projects, and continuously level up my skills.
 
-<div style="background:#111; padding:20px; border-radius:15px; box-shadow:0 10px 25px rgba(0,0,0,0.5); width:280px; transition:0.3s; hover:transform:scale(1.05);">
-#### Weather App
-- Live Weather Forecast
-- Search by City, Temp & Humidity
-[🔗 GitHub](https://github.com/Bilal742/weather-app)
-</div>
+---
 
-</div>
+## 🌟 Personal Motto
+
+*"Passionate Web & App Developer, constantly evolving 🚀"*  
+— **Muhammad Bilal**  
 
 ---
 
