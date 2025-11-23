@@ -1,3 +1,9 @@
+<h3 align="center"> 
+  
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
+</h3>  
+
 # 👋 Hi, I'm Muhammad Bilal
 
 **Frontend Developer | Aspiring Full-Stack (MERN) Developer** 💻🚀
