@@ -3,11 +3,11 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
   
 </div>  
-<h1>Assalam-o-Alaikum 👋, I'm Muhammad Bilal</h1>
+<h1 align="center">Assalam-o-Alaikum 👋, I'm Muhammad Bilal</h1>
 
-<h3>**Frontend Developer | Aspiring Full-Stack (MERN) Developer** 💻🚀</h3>
+<h3 align="center">**Frontend Developer | Aspiring Full-Stack (MERN) Developer** 💻🚀</h3>
 
-<h3>I started my **web development journey in 2024** with zero knowledge but a huge passion for coding.  
+<h3 align="center">I started my **web development journey in 2024** with zero knowledge but a huge passion for coding.  
 Through consistent practice and learning, I grew from basic **HTML & CSS** to **JavaScript**, then **React & Tailwind CSS**, and now exploring **Node.js, Express.js, MongoDB, TypeScript, and Next.js**.
 
 I believe in **building real projects** and continuously improving my skills through challenges and experimentation.</h3>
