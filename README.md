@@ -65,7 +65,7 @@ create high-quality, scalable projects, and continuously level up my skills.
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Bilal742&show_icons=true&theme=dark&hide_border=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal742&theme=dark&hide_border=true" />
+<img height="150" src="https://streak-stats.demolab.com?user=Bilal742&theme=dark" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal742&layout=compact&theme=dark&hide_border=true" />
 </p>
 
