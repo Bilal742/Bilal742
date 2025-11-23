@@ -1,6 +1,6 @@
 <h3 align="center"> 
   
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+![Welcome](https://capsule-render.vercel.app/api?type=glitch&color=gradient&height=100&section=header&text=Muhammad+Bilal)
 
 </h3>  
 
