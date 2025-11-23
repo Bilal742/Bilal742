@@ -2,23 +2,23 @@
 
 <div align="center">
   <h1 style="background: linear-gradient(90deg,#00c6ff,#0072ff); -webkit-background-clip: text; color: transparent; text-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
-    Frontend Developer | Aspiring MERN Stack Developer 💻🚀
+    Frontend Developer | MERN Stack Learner 💻🚀
   </h1>
-  <p style="font-size:16px; color:#ccc;">Crafting modern, responsive web & app experiences with React, Tailwind, and more.</p>
+  <p style="font-size:16px; color:#ccc;">Building modern, responsive web & app experiences with React, Tailwind, Node.js, and more.</p>
 </div>
 
 ---
 
 ## 🧩 About Me
 
-Started my **Web Development journey in 2024** from scratch.  
-Step by step, I mastered:
+Started my **Web Development journey in 2024** from zero. Step by step, I mastered:
 
-- **HTML → CSS → JavaScript → Tailwind → React**  
-- **Backend**: Node.js, Express, MongoDB  
-- **Currently learning**: TypeScript & Next.js  
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Currently Learning:** TypeScript, Next.js  
+- **Passion:** Clean UI, responsive apps, modern UX  
 
-> "Passionate Web & App Developer in Progress 🚀"
+> "Strive to learn, build, and improve every single day 🚀"
 
 ---
 
@@ -43,33 +43,33 @@ Step by step, I mastered:
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-### <div style="background:#111; padding:20px; border-radius:15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); width:260px; transition:0.3s; hover:transform:scale(1.05);">
+<div style="background:#111; padding:20px; border-radius:15px; box-shadow:0 10px 25px rgba(0,0,0,0.5); width:280px; transition:0.3s; hover:transform:scale(1.05);">
 #### CryptoDash
-- Real-Time Crypto Dashboard
-- Live prices, 7-day sparkline charts
+- Real-Time Cryptocurrency Dashboard
+- Live prices, sparkline charts
 - Search & pagination
-[View Project](https://github.com/Bilal742/crypto-dash)
+[🔗 GitHub](https://github.com/Bilal742/crypto-dash)
 </div>
 
-### <div style="background:#111; padding:20px; border-radius:15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); width:260px; transition:0.3s; hover:transform:scale(1.05);">
-#### Todo App
-- Fully functional To-Do List
+<div style="background:#111; padding:20px; border-radius:15px; box-shadow:0 10px 25px rgba(0,0,0,0.5); width:280px; transition:0.3s; hover:transform:scale(1.05);">
+#### To-Do App
+- Fully Functional To-Do List
 - Add/Edit/Delete/Mark Complete
-[View Project](https://github.com/Bilal742/todo-app)
+[🔗 GitHub](https://github.com/Bilal742/todo-app)
 </div>
 
-### <div style="background:#111; padding:20px; border-radius:15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); width:260px; transition:0.3s; hover:transform:scale(1.05);">
+<div style="background:#111; padding:20px; border-radius:15px; box-shadow:0 10px 25px rgba(0,0,0,0.5); width:280px; transition:0.3s; hover:transform:scale(1.05);">
 #### Quiz App
 - Interactive Multiple Choice Quiz
-- Track Score & Restart
-[View Project](https://github.com/Bilal742/quiz-app)
+- Score tracking & Restart
+[🔗 GitHub](https://github.com/Bilal742/quiz-app)
 </div>
 
-### <div style="background:#111; padding:20px; border-radius:15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); width:260px; transition:0.3s; hover:transform:scale(1.05);">
+<div style="background:#111; padding:20px; border-radius:15px; box-shadow:0 10px 25px rgba(0,0,0,0.5); width:280px; transition:0.3s; hover:transform:scale(1.05);">
 #### Weather App
 - Live Weather Forecast
 - Search by City, Temp & Humidity
-[View Project](https://github.com/Bilal742/weather-app)
+[🔗 GitHub](https://github.com/Bilal742/weather-app)
 </div>
 
 </div>
@@ -81,11 +81,12 @@ Step by step, I mastered:
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Bilal742&show_icons=true&theme=dark&hide_border=true" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal742&theme=dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal742&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:bilalusman1291@gmail.com">
@@ -97,6 +98,9 @@ Step by step, I mastered:
   <a href="https://imuhammadbilal.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=vercel" />
   </a>
+  <a href="https://www.linkedin.com/in/bilalusman1291/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
@@ -104,4 +108,3 @@ Step by step, I mastered:
 <p align="center">
 Made with ❤️ by **Muhammad Bilal**
 </p>
-
