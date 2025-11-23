@@ -1,6 +1,6 @@
 <h3 align="center"> 
   
-![Bilal's Portfolio](https://capsule-render.vercel.app/api?type=soft?color=auto&height=120&section=header)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
 </h3>  
 
@@ -8,10 +8,10 @@
 
 <h3 align="center">**Frontend Developer | Aspiring Full-Stack (MERN) Developer** 💻🚀</h3
 
-I started my **web development journey in 2024** with zero knowledge but a huge passion for coding.  
+<h3 align="center">I started my **web development journey in 2024** with zero knowledge but a huge passion for coding.  
 Through consistent practice and learning, I grew from basic **HTML & CSS** to **JavaScript**, then **React & Tailwind CSS**, and now exploring **Node.js, Express.js, MongoDB, TypeScript, and Next.js**.
 
-I believe in **building real projects** and continuously improving my skills through challenges and experimentation.
+I believe in **building real projects** and continuously improving my skills through challenges and experimentation.</h3>
 
 ---
 
