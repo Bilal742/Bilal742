@@ -1,6 +1,6 @@
 <h3 align="center"> 
   
-![Welcome](https://capsule-render.vercel.app/api?type=glitch&color=gradient&height=100&section=header&text=Muhammad+Bilal)
+![Bilal's Portfolio](https://capsule-render.vercel.app/api?type=soft?color=auto&height=120&section=header)
 
 </h3>  
 
