@@ -66,12 +66,14 @@ create high-quality, scalable projects, and continuously level up my skills.
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats:
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Bilal742&show_icons=true&theme=dark&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal742&layout=compact&theme=dark&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=hasan912&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hasan912&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan912&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hasan912&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
