@@ -72,7 +72,7 @@ create high-quality, scalable projects, and continuously level up my skills.
 ![](https://nirzak-streak-stats.vercel.app/?user=Bilal742&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal742&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo:
 
 ![](https://github-contributor-stats.vercel.app/api?username=Bilal742&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
