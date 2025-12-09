@@ -4,7 +4,7 @@
   
 </div>  
 <h1 align="center">Assalam-o-Alaikum 👋, I'm Muhammad Bilal</h1>
-
+ 
 <h3 align="center">I'm a Front-End Developer. 💻🚀</h3>
  
 <h3 align="center">I started my web development journey in 2024 with zero knowledge but a huge passion for coding.  
