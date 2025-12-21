@@ -87,7 +87,7 @@ create high-quality, scalable projects, and continuously level up my skills.
   <a href="https://github.com/Bilal742">
     <img src="https://img.shields.io/badge/GitHub-Bilal742-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://imuhammadbilal.vercel.app/">
+  <a href="https://imuhammad-bilal.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://www.linkedin.com/in/bilalusman1291/">
