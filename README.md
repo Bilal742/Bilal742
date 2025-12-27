@@ -95,6 +95,32 @@ create high-quality, scalable projects, and continuously level up my skills.
   </a>
 </p>
 
+<h6 align="center">
+  
+```diff
+
+         o o                                           
+         | |                                           
+        _L_L_                                          
+     ❮\/__-__\/❯ Programming isn't about what you know 
+     ❮(|~o.o~|)❯  It's about what you can figure out   
+     ❮/ \`-'/ \❯                                       
+       _/`U'\_                                         
+      ( .   . )     .----------------------------.     
+     / /     \ \    | while( ! (succeed=try() ) ) |     
+     \ |  ,  | /    '----------------------------'     
+      \|=====|/                                        
+       |_.^._|                                         
+       | |"| |                                         
+       ( ) ( )   Testing leads to failure              
+       |_| |_|   and failure leads to understanding    
+   _.-' _j L_ '-._                                     
+  (___.'     '.___)                                    
+
+```
+
+</h6>
+
 <h3 align="center">
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
