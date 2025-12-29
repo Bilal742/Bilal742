@@ -78,23 +78,6 @@ create high-quality, scalable projects, and continuously level up my skills.
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:bilalusman1291@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Bilal%40gmail.com-blue?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/Bilal742">
-    <img src="https://img.shields.io/badge/GitHub-Bilal742-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://imuhammad-bilal.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://www.linkedin.com/in/bilalusman1291/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
 <h6 align="center">
   
 ```diff
@@ -119,6 +102,22 @@ create high-quality, scalable projects, and continuously level up my skills.
 
 ```
 
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:bilalusman1291@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Bilal%40gmail.com-blue?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/Bilal742">
+    <img src="https://img.shields.io/badge/GitHub-Bilal742-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://imuhammad-bilal.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://www.linkedin.com/in/bilalusman1291/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 </h6>
 
 <h3 align="center">
