@@ -1,8 +1,8 @@
 <div>  
     
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header) 
-      
-</div>   
+
+</div>
 <h1 align="center">Assalam-o-Alaikum 👋, I'm Muhammad Bilal</h1>
  
 <h3 align="center">I'm a Front-End Developer. 💻🚀</h3>
